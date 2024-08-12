@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @IsaRahman
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
@@ -39,7 +36,11 @@ Standup Comedy: I love to unwind with some good humor and enjoy performing stand
 Movies & TV Series: I'm a big fan of cinema and storytelling.
 Travel: One of my goals is to travel and explore as many countries as possible.
 
-
+ 📫 How to reach me
+ Facebook: https://www.facebook.com/IsaRahman131
+ Twitter: https://x.com/IsaRahman_buet
+ Email: isarahman.buet@gmail.com
+ 
 
 <!---
 IsaRahman/IsaRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
