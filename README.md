@@ -1,9 +1,4 @@
 
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 👋 Hello, I'm Isa Rahman
 
 Welcome to my GitHub profile! I'm a recent graduate with a B.Sc. in Civil Engineering from Bangladesh University of Engineering and Technology (BUET), currently focusing on Transportation Engineering. 
@@ -40,7 +35,10 @@ Travel: One of my goals is to travel and explore as many countries as possible.
  Facebook: https://www.facebook.com/IsaRahman131
  Twitter: https://x.com/IsaRahman_buet
  Email: isarahman.buet@gmail.com
- 
+
+- ⚡ Fun fact:
+- Tony Stark, aka Iron Man, is a fictional engineer whose tech creations are a fan favorite. His character was inspired by real-life inventor and engineer Howard Hughes, who was also a billionaire and a pilot.
+- 
 
 <!---
 IsaRahman/IsaRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
