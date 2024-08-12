@@ -6,10 +6,12 @@ Welcome to my GitHub profile! I'm a recent graduate with a B.Sc. in Civil Engine
 
 
 🚀 Key Skills & Technical Expertise
+
 Programming Languages: Python, Matlab, LaTeX
 Simulation & Design Tools: VISSIM Microsimulation, AutoCAD
 
 💼 Projects
+
   **Undergraduate Thesis:** EThis thesis presents a genetic algorithm integrated with VISSIM micro simulation to optimize traffic
   signal control at an intersection of Dhaka city, achieving significant improvements in traffic flow and
   reductions in vehicle delay compared to traditional methods.
@@ -21,17 +23,21 @@ Simulation & Design Tools: VISSIM Microsimulation, AutoCAD
   been completed for the project proposal.
   
 🎯 Career Goals
+
 I am dedicated to specializing in Transportation Engineering with a keen interest in the future of transport. My aim is to leverage cutting-edge technology to solve real-world challenges in urban mobility and infrastructure.
 
 🏆 Achievements
+
 Check out my LinkedIn profile:https://www.linkedin.com/in/isarahman for a detailed list of my academic and professional achievements, certifications, and more.
 
 🎉 Hobbies & Personal Interests
+
 Standup Comedy: I love to unwind with some good humor and enjoy performing standup comedy.
 Movies & TV Series: I'm a big fan of cinema and storytelling.
 Travel: One of my goals is to travel and explore as many countries as possible.
 
  📫 How to reach me
+ 
  Facebook: https://www.facebook.com/IsaRahman131
  Twitter: https://x.com/IsaRahman_buet
  Email: isarahman.buet@gmail.com
