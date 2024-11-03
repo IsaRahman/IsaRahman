@@ -12,7 +12,7 @@ Simulation & Design Tools: VISSIM Microsimulation, AutoCAD
 
 💼 Projects
 
-  **Undergraduate Thesis:** EThis thesis presents a genetic algorithm integrated with VISSIM micro simulation to optimize traffic
+  **Undergraduate Thesis:** This thesis presents a method of genetic algorithm integrated with VISSIM micro simulation to optimize traffic
   signal control at an intersection of Dhaka city, achieving significant improvements in traffic flow and
   reductions in vehicle delay compared to traditional methods.
 
